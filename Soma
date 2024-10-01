@@ -1,0 +1,9 @@
+Valor da Variável SOMA:
+
+O trecho de código dado calcula a soma dos primeiros 12 números inteiros positivos. Vamos calcular:
+
+K varia de 1 a 12 (inclusive).
+A soma é 1 + 2 + 3 + … + 12.
+A fórmula para a soma dos primeiros n números inteiros positivos é: SOMA=(n(n+1)​)/2
+
+Portanto, a soma aqui é: SOMA=(12⋅13)/2​=78
